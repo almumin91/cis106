@@ -2,7 +2,7 @@
 
 
 ## Question 1
-![Question 1.1](../Images/Lab5Q1.png)
+![Question 1.1](../Images/Lab5Q1.1.png)
 ![Question 1.2](../Images/Lab5Q1.2.png)
 ![Question 1.3](../Images/Lab5Q1.3.png)
 ![Question 1.4](../Images/Lab5Q1.4.png)
