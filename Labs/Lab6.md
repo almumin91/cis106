@@ -12,3 +12,5 @@
 
 ## URL of the markdown file GNU+Linux
 [GNU+Linux.md](https://github.com/almumin91/cis106/blob/main/Labs/GNU%2BLinux.md)
+
+## End of Lab 6
