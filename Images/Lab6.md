@@ -2,15 +2,13 @@
 
 
 ## Question 2
-![Question 2.1](../Images/Lab6Q2.1.png)
-![Question 2.2](../Images/Lab6Q2.2.png)
-![Question 2.3](../Images/Lab6Q2.3.png)
+![Question 2.1](../Images/Lab6Q2.png)
 
+## URL of the files linux.md
+![linux.md](https://github.com/almumin91/cis106/blob/main/Labs/linux.md)
 
+## URL of the linux+other.md
+![linux+other.md](https://github.com/almumin91/cis106/blob/main/Labs/linux%2Bother.md)
 
-
-Linux: https://bit.ly/3oMmbw7
-windows: https://bit.ly/3lVEnBW
-macOS: https://bit.ly/30nkfkw
-FreeBSD: https://bit.ly/3lYrXsU
-RISC OS: https://bit.ly/3DQQk1A
+## URL of the GNU+Linux.md
+![GNU+Linux.md](https://github.com/almumin91/cis106/blob/main/Labs/GNU%2BLinux.md)
