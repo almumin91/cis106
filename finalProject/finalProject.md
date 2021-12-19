@@ -143,7 +143,7 @@ Linux is an open source operating system. It allows users to use, create, and mo
 
   ### Select Installation Type
    Ubuntu will ask if you want to try a live version of it before installing it. We are installing the full system so click on `Install Ubuntu`. 
-   ![step 16](./vimSetup/select%20lang.png)
+   ![step 16](./vmSetup/selectlang.png)
    *Select the preferred language.*
 
 
