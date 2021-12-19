@@ -168,16 +168,16 @@ Linux is an open source operating system. It allows users to use, create, and mo
   ### Some useful commands to use in terminal
   | Commands | What they do | Example |
   |----------|--------------|-----------|
-  | pwd | Shows the current location | pwd |
-  | ls | list all the files and directories | ls Documents/ |
-  | tac | Display the content of a file in reverse order | tac file1.txt |
-  | touch | create files | touch file2.txt |
-  | mkdir | create directories | mkdir newFolder |
-  | cd | get inside a directory | cd Documents/ | cd ~ (home) |
-  | rm | delete files and directories | rm file2.txt
-  | cp | copy files and directories | cp file1 file2
-  | head | Display first 5 lines of a file | head file1.txt
-  | tail | Display last 5 lines of a file | tail file1.txt
+  | pwd | Shows the current location | `pwd` |
+  | ls | list all the files and directories | `ls Documents/` |
+  | tac | Display the content of a file in reverse order | `tac file1.txt` |
+  | touch | create files | `touch file2.txt` |
+  | mkdir | create directories | `mkdir newFolder` |
+  | cd | get inside a directory | cd Documents/ | `cd ~` (home) |
+  | rm | delete files and directories | `rm file2.txt`
+  | cp | copy files and directories | `cp file1 file2`
+  | head | Display first 5 lines of a file | `head file1.txt`
+  | tail | Display last 5 lines of a file | `tail file1.txt`
   
 
    *Follow the link for more examples:* [Linux Commands](https://robertalberto.com/linuxcommands/home.html)
@@ -192,7 +192,7 @@ Linux is an open source operating system. It allows users to use, create, and mo
 
   #### Install firefox
    You can browse, download, upload, basically experience the world of web using firefox. Just put the url of a website in the address bar and you can access the content of that site.
-     `sudo apt install firefox`
+  `sudo apt install firefox`
   
    If you do not like firefox, and want to use other web browser, you can just search for it in terminal using `search apt "web browser".
 
