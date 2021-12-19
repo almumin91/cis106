@@ -268,9 +268,9 @@ Linux is an open source operating system. It allows users to use, create, and mo
 
  “CIS 106: Linux Commands.” Home, robertalberto.com/linuxcommands/home.html.
 
- Linuxize. “How to Install Google Chrome Web Browser on Ubuntu 20.04.” Linuxize, Linuxize, 24 Apr. 2020, linuxize.com/post/
+ Said, Younis. “How to Install Google Chrome on Ubuntu 20.04.” Linux Hint, 1 Jan. 1968, https://linuxhint.com/ubuntu_20-04_google_chrome_installation_guide/.   
 
- Awaisi, Kamran Sattar. “Install LibreOffice on Ubuntu 20.04 and Linux Mint 20.” Linux Hint, 1 Oct. 1969, linuxhint.com/install-libreoffice-ubuntu-linux-mint. 
+ Rendek, Lubos. “How to Install Libreoffice Ubuntu 20.04 Focal Fossa Desktop.” Linux Tutorials - Learn Linux Configuration, 13 May 2020, https://linuxconfig.org/how-to-install-libreoffice-ubuntu-20-04-focal-fossa-desktop. 
 
 
  
